@@ -58,9 +58,14 @@ a {
 		}
 }
 @media screen and (max-width: 768px){
-    
-}
-@media screen and (max-width: 996x){
-    
+    		p{
+			text-size-adjust: auto;
+		}
 
 }
+@media screen and (max-width: 996x){
+		p{
+			text-size-adjust: auto;
+		}
+}
+    
